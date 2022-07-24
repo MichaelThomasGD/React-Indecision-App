@@ -8,9 +8,9 @@ Through the study of React, I have developed a "to-do list" style application th
 4. Once the node modules are created, the application can be ran by running the following command: "npm run dev-server".
 
 ## Languages/ Features
-. HTML - Structure
-. SCSS - Styling
-. React - Core/ Functionality
-. Babel - JS Compiler
-. NPM - Library Installer
-. Webpack - Module Bundler
+1. HTML - Structure
+2. SCSS - Styling  
+3. React - Core/ Functionality
+4. Babel - JS Compiler
+5. NPM - Library Installer
+6. Webpack - Module Bundler
